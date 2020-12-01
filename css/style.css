@@ -424,32 +424,32 @@ body {
 }
 
 .services__item:nth-child(1) {
-  background-image: url(/img/services_img01.jpg);
+  background-image: url(img/services_img01.jpg);
   grid-column: 1/5;
 }
 
 .services__item:nth-child(2) {
-  background-image: url(/img/services_img02.jpg);
+  background-image: url(img/services_img02.jpg);
   grid-column: span 2;
 }
 
 .services__item:nth-child(3) {
-  background-image: url(/img/services_img03.jpg);
+  background-image: url(img/services_img03.jpg);
   grid-column: 1/5;
 }
 
 .services__item:nth-child(4) {
-  background-image: url(/img/services_img04.jpg);
+  background-image: url(img/services_img04.jpg);
   grid-column: span 2;
 }
 
 .services__item:nth-child(5) {
-  background-image: url(/img/services_img05.jpg);
+  background-image: url(img/services_img05.jpg);
   grid-column: 1/3;
 }
 
 .services__item:nth-child(6) {
-  background-image: url(/img/services_img06.jpg);
+  background-image: url(img/services_img06.jpg);
   grid-column: span 4;
 }
 
